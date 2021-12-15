@@ -33,6 +33,7 @@ dependencies:
   # 游戏引擎全家捅集合：https://github.com/flame-engine/flame/tree/main/packages
   flame: ^1.0.0
   #https://pub.dev/packages/flame_flare
+  ///
   flame_flare: ^1.0.0
   #https://pub.dev/packages/flame_audio
   flame_audio: ^1.0.0
